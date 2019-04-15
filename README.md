@@ -3,8 +3,8 @@
 
 Server
 ------
-https://censys.io/ipv4?q=www.domain.com
-https://www.shodan.io/search?query=www.domain.com
+https://censys.io/ipv4?q=www.domain.com<br>
+https://www.shodan.io/search?query=www.domain.com<br>
 https://www.zoomeye.org/searchResult?q=www.domain.com
 
 
