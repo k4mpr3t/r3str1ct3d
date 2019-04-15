@@ -3,6 +3,7 @@
 
 Server
 ------
+
 https://censys.io/ipv4?q=www.domain.com<br>
 https://www.shodan.io/search?query=www.domain.com<br>
 https://www.zoomeye.org/searchResult?q=www.domain.com
@@ -10,6 +11,7 @@ https://www.zoomeye.org/searchResult?q=www.domain.com
 
 Defaced
 -------
+
 http://zone-h.org
 
 
@@ -64,3 +66,11 @@ Spam
 ----
 
 https://www.dnsbl.info/dnsbl-database-check.php
+
+
+Crack
+-----
+
+https://www.serials.ws
+
+
